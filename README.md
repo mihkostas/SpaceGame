@@ -1,3 +1,3 @@
 # SpaceGame
 
-this is a retro space game in python
+this is a retro space shooter game in python
